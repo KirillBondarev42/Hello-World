@@ -1,6 +1,6 @@
 var a,b,c : real;
 begin
-writeln('Hello,World!');
+writeln('Hello, World!');
 writeln('Введите значение a: ');
 readln(a);
 writeln('Введите значение b: ');

@@ -19,4 +19,10 @@ writeln('Введите значение b: ');
 readln(b);
 c:=a*b;
 writeln('Произведение a и b равно: ', c);
+writeln('Введите значение a: ');
+readln(a);
+writeln('Введите значение b: ');
+readln(b);
+c:=a/b;
+writeln('Частное a и b равно: ', c);
 end.
